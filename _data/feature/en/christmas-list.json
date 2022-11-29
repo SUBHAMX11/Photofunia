@@ -1,0 +1,65 @@
+{
+    "Language": "English",
+    "htmlLangAtt": "en",
+    "H1": "Christmas List",
+    "H2": "Upload the image and apply your favourite border",
+    "color": "#FF5554",
+    "imgwidth": "35px",
+    "imgheight": "35px",
+    "imgalt": "altvalue",
+    "nofileupload": true,
+    "variant": "primary",
+    "TITLE": "Image border tool- Surround your images with a border",
+    "META": "Image border tool helps you to add a simple border frame to your image. You can customize border colour and width. Border sets the focal subject.",
+    "TEXTUAL_CONTENT": [],
+    "FAQ": [
+        {
+            "question": "",
+            "answer": ""
+        }
+    ],
+    "jsfilepaths": [
+        "/assets/js/googledrive.js",
+        "https://cdnjs.cloudflare.com/ajax/libs/cropperjs/1.5.12/cropper.min.js",
+        "/assets/js/frame.js"
+    ],
+    "cssfilepaths": [
+        "https://cdnjs.cloudflare.com/ajax/libs/cropperjs/1.5.12/cropper.css",
+        "/assets/css/frame.css"
+    ],
+    "mainPreviewImage": "https://cdn.photofunia.com/effects/calendar/icons/medium.jpg",
+    "imageSamples": [
+        "https://cdn.photofunia.com/effects/calendar/examples/1hjpco5_r.jpg",
+        "https://cdn.photofunia.com/effects/calendar/examples/1gzzwn7_r.jpg",
+        "https://cdn.photofunia.com/effects/calendar/examples/eny6h4_r.jpg",
+        "https://cdn.photofunia.com/effects/calendar/examples/1v705mc_r.jpg"
+    ],
+    "effectImagePath": "/assets/images/gallary.png",
+    "elements": [
+        {
+            "label": "Wish List",
+            "type": "text",
+            "id": "text-1"
+        },
+        {
+            "label": "1.Your Text",
+            "type": "text",
+            "id": "text-2"
+        },
+        {
+            "label": "2.",
+            "type": "text",
+            "id": "text-3"
+        },
+        {
+            "label": "3.",
+            "type": "text",
+            "id": "text-4"
+        },
+        {
+            "label": "4.",
+            "type": "text",
+            "id": "text-5"
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+<div class="container">
+    {%- assign boxColor = site.data[page.folderName][page.lang][page.fileName].color -%}
+    <div class="custom-box" data-color="{{boxColor}}" style="background-color:{{boxColor}};">
+
+    </div>
+    <div class="workspace">
+        <div class="row">
+            <div class="col-md-8 mx-auto">
+                <div class="select-img-panel">
+                    <div id="saving-data" style="display: none;">
+                        <img loading="lazy" src="/img/save.gif" alt="saving"> <span class="ml-2">Saving your
+                            images...</span>
+                    </div>
+
+                    <div id="canvas-panel" style="min-height: 300px;"></div>
+                    <input type="number" id="seed" value="10" style="visibility: hidden;">
+
+                    <div class="d-flex" style="gap:10px">
+                        <button style="background-color: {{boxColor}}; border-radius:50px"
+                            class="btn w-100 mt-3 text-white" id="random-generate">
+                            Random
+                            Image Gen</button>
+
+                        <div class="download-wrapper mt-3 w-100">
+                            <button id="download-button" style="background-color: {{boxColor}};">
+                                <svg id="export-svg" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"
+                                    fill="currentColor">
+                                    <path
+                                        d="M18 20H5V15H6V19H17V15H18V20ZM12 4V15.19L14.3 13L15 13.6667L11.5 17L8 13.6667L8.7 13L11 15.19V4H12Z">
+                                    </path>
+                                </svg>Download</button>
+                        </div>
+                    </div>
+
+                    <h3 style="color:{{boxColor}}" class="text-left font-weight-bolder">Random Png Option Maker</h3>
+                    <div class="options p-3 text-left text-white" style="background-color: {{boxColor}};">
+                        <div class="row text-left">
+                            <div class="col-md-4">
+                                <h4 class="font-weight-bolder">PNG size</h4>
+                                <label for="bit-rate" class="mb-0">Bit Size</label>
+                                <input type="text" id="bit-rate" class="form-control common-style">
+
+                                <label for="width" class="mb-0">Width</label>
+                                <input type="text" id="width" class="form-control common-style">
+
+                                <label for="height" class="mb-0">Height</label>
+                                <input type="text" id="height" class="form-control common-style">
+
+
+                            </div>
+
+                            <div class="col-md-4">
+                                <h4 class="font-weight-bolder">PNG color</h4>
+                                <label for="picker" class="mb-0">Hex colors</label>
+                                <textarea style="height: 80px; overflow: hidden;" id="picker" type="text"
+                                    class="form-control common-style"></textarea>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>

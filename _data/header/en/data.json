@@ -1,0 +1,40 @@
+{
+    "navbarBrandText": "",
+    "navbarBrandLogo": "https://d33wubrfki0l68.cloudfront.net/2e37a1020563aa528471da7425b8e58343e2baf7/a186c/picture.png",
+    "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "Generate",
+                "links": [
+                    {
+                        "name": "Duplicate Image",
+                        "iconSrc": "/img/duplicate.png",
+                        "url": "/effects/duplicate-image"
+                    },
+                    {
+                        "name": "Clip image",
+                        "iconSrc": "/img/effect-tools/clip-image.png",
+                        "url": "/effects/clip-image"
+                    },
+                    {
+                        "name": "vignette effect image",
+                        "iconSrc": "/img/effect-tools/vignette-effect.png",
+                        "url": "/effects/vignette-effect-image"
+                    },
+                    {
+                        "name": "Round image corners",
+                        "iconSrc": "/img/safeimagekit-filter-png.png",
+                        "url": "/effects/round-image-corners"
+                    }
+                ]
+            }
+        ]
+    },
+    "navItems": [
+        {
+            "name": "Blog",
+            "url": "/blog"
+        }
+    ]
+}

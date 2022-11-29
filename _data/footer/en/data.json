@@ -1,0 +1,81 @@
+{
+  "logo": "/picture.png",
+  "heading": "safeimagekit.com",
+  "companytitle": "Company",
+  "producttitle": "Product",
+  "networksitestitle": "Network sites",
+  "company": [
+    {
+      "name": "Terms and Condition",
+      "url": "/terms-and-conditions"
+    },
+    {
+      "name": "Disclaimer",
+      "url": "/disclaimer"
+    },
+    {
+      "name": "Privacy",
+      "url": "/privacy-policy"
+    }
+  ],
+  "product": [
+    {
+      "name": "Duplicate Image",
+      "iconSrc": "/img/duplicate.png",
+      "url": "/effects/duplicate-image"
+    },
+    {
+      "name": "Clip image",
+      "iconSrc": "/img/effect-tools/clip-image.png",
+      "url": "/effects/clip-image"
+    },
+    {
+      "name": "vignette effect image",
+      "iconSrc": "/img/effect-tools/vignette-effect.png",
+      "url": "/effects/vignette-effect-image"
+    },
+    {
+      "name": "Round image corners",
+      "iconSrc": "/img/home/square-with-round-corners.png",
+      "url": "/effects/round-image-corners"
+    }
+  ],
+  "social": [
+    {
+      "logo": "/assets/facebook.svg",
+      "url": "/",
+      "title": "facebook"
+    },
+    {
+      "logo": "/assets/youtube.svg",
+      "url": "/",
+      "title": "youtube"
+    },
+    {
+      "logo": "/assets/instagram.svg",
+      "url": "/",
+      "title": "instagram"
+    },
+    {
+      "logo": "/assets/linkdin.svg",
+      "url": "/",
+      "title": "linkedin"
+    },
+    {
+      "logo": "/assets/twitter.svg",
+      "url": "/",
+      "title": "twitter"
+    }
+  ],
+  "legal": [
+    {
+      "name": "About Us",
+      "url": "about"
+    },
+    {
+      "name": "Contact Us",
+      "url": "contact"
+    }
+  ],
+  "messege": "© 2022 - safeimagekit.com"
+}

@@ -1,0 +1,24 @@
+{
+    "Language": "English",
+    "htmlLangAtt": "en",
+    "H1": "All effects",
+    "H2": "Largest and best collection of photo effects",
+    "color": "#ff6131",
+    "imgwidth": "35px",
+    "imgheight": "35px",
+    "imgalt": "altvalue",
+    "nofileupload": true,
+    "variant": "primary",
+    "TITLE": "Image border tool- Surround your images with a border",
+    "META": "Image border tool helps you to add a simple border frame to your image. You can customize border colour and width. Border sets the focal subject.",
+    "TEXTUAL_CONTENT": [],
+    "FAQ": [
+        {
+            "question": "",
+            "answer": ""
+        }
+    ],
+    "cssfilepaths": [
+        "/assets/css/frame.css"
+    ]
+}

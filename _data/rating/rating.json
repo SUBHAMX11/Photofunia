@@ -1,0 +1,32 @@
+{
+    "tools": [
+        {
+            "name": "round-image-corners-effect"
+        },
+        {
+            "name": "safeimagekit-effect-tools",
+            "rating": "NaN",
+            "votes": 0
+        },
+        {
+            "name": "vignette-effect-image",
+            "rating": "5.00",
+            "votes": 1
+        },
+        {
+            "name": "duplicate-image-effect",
+            "rating": "NaN",
+            "votes": 0
+        },
+        {
+            "name": "clip-image-effect",
+            "rating": "5.00",
+            "votes": 1
+        },
+        {
+            "name": "noise-image-effect",
+            "rating": "5.00",
+            "votes": 1
+        }
+    ]
+}

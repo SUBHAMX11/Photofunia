@@ -1,0 +1,48 @@
+{
+    "Language": "English",
+    "htmlLangAtt": "en",
+    "H1": "Bronze Frames",
+    "H2": "Upload the image and apply your favourite border",
+    "color": "#FF5554",
+    "imgwidth": "35px",
+    "imgheight": "35px",
+    "imgalt": "altvalue",
+    "nofileupload": true,
+    "variant": "primary",
+    "TITLE": "Image border tool- Surround your images with a border",
+    "META": "Image border tool helps you to add a simple border frame to your image. You can customize border colour and width. Border sets the focal subject.",
+    "TEXTUAL_CONTENT": [],
+    "FAQ": [
+        {
+            "question": "",
+            "answer": ""
+        }
+    ],
+    "jsfilepaths": [
+        "/assets/js/googledrive.js",
+        "https://cdnjs.cloudflare.com/ajax/libs/cropperjs/1.5.12/cropper.min.js",
+        "/assets/js/frame.js"
+    ],
+    "cssfilepaths": [
+        "https://cdnjs.cloudflare.com/ajax/libs/cropperjs/1.5.12/cropper.css",
+        "/assets/css/frame.css"
+    ],
+    "mainPreviewImage": "/assets/images/bronze-frames-main.png",
+    "imageSamples": [
+        "/assets/images/bronze-frames-main.png",
+        "/assets/images/bronze-frames2.png",
+        "/assets/images/bronze-frames3.png",
+        "/assets/images/bronze-frames4.png"
+    ],
+    "effectImagePath": "/assets/images/festive-days.png",
+    "elements": [
+        {
+            "type": "image",
+            "label": ""
+        },
+        {
+            "type": "image",
+            "label": ""
+        }
+    ]
+}

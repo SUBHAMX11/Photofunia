@@ -1,0 +1,69 @@
+{
+  "Language": "English",
+  "htmlLangAtt": "en",
+  "successmessage": "Hurray! your operation was completed",
+  "tryfeatureheading": "You can also try these features",
+  "rateus": "Rate us",
+  "votes": "votes",
+  "socialshareheading": "We are a free to use platform for safe processing of your files. We need your support to grow. Help us by sharing us on social media. Thanks !",
+  "recommendedsitesheading": "Try our other sites for safe processing of you files!",
+  "recommendedfeatures": [
+    {
+      "name": "Duplicate Image",
+      "logo": "/img/duplicate.png",
+      "url": "/effects/duplicate-image"
+    },
+    {
+      "name": "Clip image",
+      "logo": "/img/effect-tools/clip-image.png",
+      "url": "/effects/clip-image"
+    },
+    {
+      "name": "vignette effect image",
+      "logo": "/img/effect-tools/vignette-effect.png",
+      "url": "/effects/vignette-effect-image"
+    },
+    {
+      "name": "Round image corners",
+      "logo": "/img/safeimagekit-filter-png.png",
+      "url": "/effects/round-image-corners"
+    }
+  ],
+  "recommendedsites": [
+    {
+      "logo": "/img/safevideokit.svg",
+      "name": "safevideokit.com",
+      "url": "https://safevideokit.com/"
+    },
+    {
+      "logo": "/img/safezipkit.png",
+      "name": "safezipkit.com",
+      "url": "https://safezipkit.com/"
+    },
+    {
+      "logo": "/img/safepdfkit.svg",
+      "name": "safepdfkit.com",
+      "url": "https://safepdfkit.com"
+    },
+    {
+      "logo": "/img/safeaudiokit.png",
+      "name": "safeaudiokit.com",
+      "url": "https://safeaudiokit.com"
+    },
+    {
+      "logo": "/img/safeaudioconverter.png",
+      "name": "safeaudioconverter.com",
+      "url": "https://safeaudioconverter.com"
+    },
+    {
+      "logo": "/img/safevideoconverter.svg",
+      "name": "safevideoconverter.com",
+      "url": "https://safevideoconverter.com"
+    },
+    {
+      "logo": "/img/safeimageconverter.svg",
+      "name": "safeimageconverter.com",
+      "url": "https://safeimageconverter.com"
+    }
+  ]
+}

@@ -1,0 +1,3308 @@
+[
+    {
+        "name": "festive-days",
+        "effectImagePath": "/assets/images/festive-days.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "filter": "",
+                "perspective": "",
+                "height": 222,
+                "width": 122,
+                "x": 266,
+                "y": 582,
+                "id": "file-1"
+            },
+            {
+                "type": "image",
+                "imagePath": "",
+                "filter": "",
+                "perspective": "",
+                "height": 241,
+                "width": 150,
+                "x": 492,
+                "y": 563,
+                "id": "file-2"
+            }
+        ]
+    },
+    
+
+    {
+        "name": "snow-sign",
+        "effectImagePath": "/assets/images/snow-sign.png",
+        "elements": [
+            {
+                "label": "",
+                "id": "text-1",
+                "type": "text",
+                "x": "705",
+                "y": "430",
+                "color": "#A4B9C6",
+                "fontFamily": "Dancing Script",
+                "fontPath": "/assets/fonts/DancingScript-Bold.ttf",
+                "fontSize": 130,
+                "fontSizeOption3": 120,
+                "fontSizeOption4": 85
+            }
+        ]
+    },
+    {
+        "name": "glass-bauble",
+        "effectImagePath": "/assets/images/glass-bauble.png",
+        "elements": [
+            {
+                "label": "",
+                "id": "text-1",
+                "type": "text",
+                "x": "565",
+                "y": "920",
+                "rotate": -13,
+                "color": "#CA9A68",
+                "fontFamily": "Dancing Script",
+                "fontPath": "/assets/fonts/DancingScript-Bold.ttf",
+                "fontSize": 90,
+                "fontSizeOption2": 77,
+                "fontSizeOption3": 67,
+                "fontSizeOption4": 44
+            },
+            {
+                "label": "",
+                "id": "text-2",
+                "type": "text",
+                "x": "570",
+                "y": "1000",
+                "rotate": -13,
+                "color": "#CA9A68",
+                "fontFamily": "Dancing Script",
+                "fontPath": "/assets/fonts/DancingScript-Medium.ttf",
+                "fontWeight": "bold",
+                "fontSize": 90,
+                "fontSizeOption2": 77,
+                "fontSizeOption3": 67,
+                "fontSizeOption4": 44
+            }
+        ]
+    },
+    {
+        "name": "christmas-diary",
+        "effectImagePath": "/assets/images/christmas-diary.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "filter": "",
+                "rotate": -30,
+                "perspective": "",
+                "height": 550,
+                "width": 414,
+                "x": 269,
+                "y": 523,
+                "id": "file-1"
+            },
+            {
+                "label": "",
+                "id": "text-1",
+                "type": "text",
+                "rotate": -21,
+                "x": "195",
+                "y": "670",
+                "color": "#8A7C73",
+                "fontFamily": "Dancing Script",
+                "fontPath": "/assets/fonts/DancingScript-Bold.ttf",
+                "fontWeight": "bold",
+                "fontSize": 58,
+                "fontSizeOption1": 35,
+                "fontSizeOption3": 26,
+                "fontSizeOption4": 25
+            }
+        ]
+    },
+    {
+        "name": "festive-greetings",
+        "effectImagePath": "/assets/images/festive-greetings.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "filter": "",
+                "perspective": "",
+                "height": 500,
+                "width": 550,
+                "x": 308,
+                "y": 278,
+                "id": "file-1"
+            },
+            {
+                "label": "",
+                "id": "text-1",
+                "type": "text",
+                "rotate": -9,
+                "x": "553",
+                "y": "730",
+                "color": "black",
+                "fontFamily": "Dancing Script",
+                "fontPath": "/assets/fonts/DancingScript-Regular.ttf",
+                "fontSize": 45,
+                "fontSizeOption3": 41,
+                "fontSizeOption4": 32
+            }
+        ]
+    },
+    {
+        "name": "nice-list-certificate",
+        "effectImagePath": "/assets/images/nice-list-certificate.png",
+        "elements": [
+            {
+                "label": "",
+                "id": "text-1",
+                "type": "text",
+                "x": "475",
+                "y": "480",
+                "color": "#5E6784",
+                "fontFamily": "Great Vibes",
+                "fontPath": "/assets/fonts/GreatVibes-Regular.ttf",
+                "fontSize": 60
+            },
+            {
+                "label": "",
+                "id": "text-2",
+                "type": "text",
+                "x": "503",
+                "y": "597",
+                "color": "#9496A3",
+                "fontFamily": "cinzel-Bold",
+                "fontPath": "/assets/fonts/cinzel-Bold.ttf",
+                "fontWeight": "bold",
+                "fontSize": 17
+            }
+        ]
+    },
+    {
+        "name": "christmas-list",
+        "effectImagePath": "/assets/images/christmas-list.png",
+        "elements": [
+            {
+                "label": "",
+                "id": "text-1",
+                "type": "text",
+                "x": "575",
+                "rotate": 6,
+                "y": "340",
+                "color": "#6A1200",
+                "fontFamily": "Kalam",
+                "fontPath": "/assets/fonts/Kalam-Regular.ttf",
+                "fontSize": 55
+            },
+            {
+                "label": "",
+                "id": "text-2",
+                "rotate": 10,
+                "type": "text",
+                "x": "480",
+                "y": "360",
+                "color": "#542B0D",
+                "fontFamily": "Kalam",
+                "fontPath": "/assets/fonts/Kalam-Regular.ttf",
+                "fontSize": 30
+            },
+            {
+                "label": "",
+                "id": "text-3",
+                "rotate": 10,
+                "type": "text",
+                "x": "480",
+                "y": "400",
+                "color": "#542B0D",
+                "fontFamily": "Kalam",
+                "fontPath": "/assets/fonts/Kalam-Regular.ttf",
+                "fontSize": 30
+            },
+            {
+                "label": "",
+                "id": "text-4",
+                "rotate": 10,
+                "type": "text",
+                "x": "480",
+                "y": "440",
+                "color": "#542B0D",
+                "fontFamily": "Kalam",
+                "fontPath": "/assets/fonts/Kalam-Regular.ttf",
+                "fontSize": 30
+            },
+            {
+                "label": "",
+                "id": "text-5",
+                "type": "text",
+                "rotate": 10,
+                "x": "480",
+                "y": "480",
+                "color": "#542B0D",
+                "fontFamily": "Kalam",
+                "fontPath": "/assets/fonts/Kalam-Regular.ttf",
+                "fontSize": 30
+            }
+        ]
+    },
+    {
+        "name": "ornament",
+        "effectImagePath": "/assets/images/ornament.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "filter": "",
+                "perspective": "",
+                "height": 207,
+                "width": 207,
+                "x": 399,
+                "y": 533,
+                "id": "file-1"
+            }
+        ]
+    },
+    {
+        "name": "xmas_tree",
+        "effectImagePath": "/assets/images/xmas_tree.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "filter": "",
+                "perspective": "",
+                "height": 258,
+                "width": 266,
+                "x": 346,
+                "y": 578,
+                "id": "file-1"
+            }
+        ]
+    },
+    {
+        "name": "card_with_laces",
+        "effectImagePath": "/assets/images/card_with_laces.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "filter": "hue-rotate(30deg) invert(5%) saturate(130%) contrast(150%) opacity(88%)",
+                "perspective": "",
+                "height": 340,
+                "width": 300,
+                "x": 125,
+                "y": 153,
+                "id": "file-1"
+            },
+            {
+                "label": "",
+                "id": "text-1",
+                "type": "text",
+                "x": "255",
+                "y": "480",
+                "color": "#B4B7B0",
+                "fontFamily": "Dancing Script",
+                "fontPath": "/assets/fonts/DancingScript-Regular.ttf",
+                "fontSize": 23
+            },
+            {
+                "label": "",
+                "id": "text-2",
+                "type": "text",
+                "x": "260",
+                "y": "610",
+                "color": "#645955",
+                "fontFamily": "Dancing Script",
+                "fontPath": "/assets/fonts/DancingScript-Regular.ttf",
+                "fontSize": 28
+            }
+        ]
+    },
+    {
+        "name": "christmas_tree",
+        "effectImagePath": "/assets/images/christmas_tree.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "filter": "",
+                "perspective": "",
+                "height": 280,
+                "width": 292,
+                "x": 122,
+                "y": 88,
+                "id": "file-1"
+            },
+            {
+                "label": "",
+                "id": "text-1",
+                "type": "text",
+                "x": "255",
+                "y": "360",
+                "color": "#DDDCE1",
+                "fontFamily": "Dancing Script",
+                "fontPath": "/assets/fonts/DancingScript-Regular.ttf",
+                "fontSize": 25
+            },
+            {
+                "label": "",
+                "id": "text-2",
+                "type": "text",
+                "x": "104",
+                "y": "635",
+                "color": "#766E65",
+                "fontFamily": "Dancing Script",
+                "fontPath": "/assets/fonts/DancingScript-Regular.ttf",
+                "fontSize": 19,
+                "fontSizeOption4": 13
+            }
+        ]
+    },
+    {
+        "name": "frosty-window-writing",
+        "effectImagePath": "/assets/images/frosty-window-writing.png",
+        "elements": [
+            {
+                "label": "",
+                "id": "text-1",
+                "type": "text",
+                "x": "820",
+                "y": "720",
+                "color": "#424041",
+                "fontFamily": "Kalam-Bold",
+                "fontPath": "/assets/fonts/Kalam-Bold.ttf",
+                "fontSize": 320,
+                "fontSizeOption1": 220,
+                "fontSizeOption3": 170,
+                "fontSizeOption4": 115
+            }
+        ]
+    },
+    {
+        "name": "snow_writing",
+        "effectImagePath": "/assets/images/snow_writing.png",
+        "elements": [
+            {
+                "label": "",
+                "id": "text-1",
+                "type": "text",
+                "x": "510",
+                "y": "420",
+                "color": "#506088",
+                "fontFamily": "refrig2",
+                "fontPath": "/assets/fonts/refrig2ttf",
+                "fontSize": 330
+            },
+            {
+                "label": "",
+                "id": "text-2",
+                "type": "text",
+                "x": "510",
+                "y": "720",
+                "color": "#506088",
+                "fontFamily": "refrig2",
+                "fontPath": "/assets/fonts/refrig2.ttf",
+                "fontSize": 330
+            }
+        ]
+    },
+    {
+        "name": "christmas-writing",
+        "effectImagePath": "/assets/images/christmas-writing.png",
+        "elements": [
+            {
+                "label": "",
+                "id": "text-1",
+                "type": "text",
+                "rotate": -1,
+                "x": "630",
+                "y": "480",
+                "color": "#F74246",
+                "fontFamily": "NeonLight",
+                "fontPath": "/assets/fonts/NeonLight-Regular.ttf",
+                "fontSize": 160,
+                "fontSizeOption3": 110,
+                "fontSizeOption4": 80
+            }
+        ]
+    },
+    {
+        "name": "xmas",
+        "effectImagePath": "/assets/images/xmas.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "filter": "",
+                "perspective": "",
+                "height": 150,
+                "width": 108,
+                "x": 298,
+                "y": 222,
+                "id": "file-1"
+            }
+        ]
+    },
+    {
+        "name": "festive_sweets",
+        "effectImagePath": "/assets/images/festive_sweets.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "filter": "",
+                "perspective": "",
+                "height": 210,
+                "width": 248,
+                "x": 140,
+                "y": 149,
+                "id": "file-1"
+            },
+            {
+                "label": "",
+                "id": "text-1",
+                "type": "text",
+                "x": "265",
+                "y": "345",
+                "color": "#795F62",
+                "fontFamily": "Dancing Script",
+                "fontPath": "/assets/fonts/DancingScript-Regular.ttf",
+                "fontSize": 23
+            },
+            {
+                "label": "",
+                "id": "text-2",
+                "type": "text",
+                "x": "258",
+                "y": "630",
+                "color": "#795F62",
+                "fontFamily": "Dancing Script",
+                "fontPath": "/assets/fonts/DancingScript-Regular.ttf",
+                "fontSize": 27,
+                "fontSizeOption4": 20
+            }
+        ]
+    },
+    {
+        "name": "rose-vine",
+        "effectImagePath": "/assets/images/rose-vine.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "filter": "",
+                "perspective": "",
+                "height": 319,
+                "width": 333,
+                "x": 661,
+                "y": 327,
+                "id": "file-1"
+            },
+            {
+                "label": "",
+                "id": "text-1",
+                "type": "text",
+                "x": "850",
+                "y": "700",
+                "color": "#F6F0F6",
+                "fontFamily": "Cinzel-Bold",
+                "fontPath": "/assets/fonts/Cinzel-Bold.ttf",
+                "fontSize": 43,
+                "fontSizeOption2": 30,
+                "fontSizeOption3": 25,
+                "fontSizeOption4": 20
+            },
+            {
+                "label": "",
+                "id": "text-2",
+                "type": "text",
+                "x": "940",
+                "y": "600",
+                "color": "#F6F0F6",
+                "fontFamily": "Dancing Script",
+                "fontPath": "/assets/fonts/DancingScript-Regular.ttf",
+                "fontSize": 20
+            }
+        ]
+    },
+    {
+        "name": "love-lock",
+        "effectImagePath": "/assets/images/love-lock.png",
+        "elements": [
+            {
+                "label": "",
+                "id": "text-1",
+                "rotate": 18,
+                "type": "text",
+                "x": "886",
+                "y": "70",
+                "color": "#623430",
+                "fontFamily": "OpenSans-Bold",
+                "fontPath": "/assets/fonts/OpenSans-Bold.ttf",
+                "fontSize": 71,
+                "fontSizeOption2": 50,
+                "fontSizeOption3": 40,
+                "fontSizeOption4": 30
+            }
+        ]
+    },
+    {
+        "name": "heart_tattoo",
+        "effectImagePath": "/assets/images/heart_tattoo.png",
+        "elements": [
+            {
+                "label": "",
+                "id": "text-1",
+                "type": "text",
+                "x": "200",
+                "y": "325",
+                "color": "#554138",
+                "fontFamily": "kalam-Bold",
+                "fontPath": "/assets/fonts/kalam-Bold.ttf",
+                "fontSize": 28,
+                "fontSizeOption2": 23,
+                "fontSizeOption3": 18,
+                "fontSizeOption4": 12
+            }
+        ]
+    },
+    {
+        "name": "tree_carving",
+        "effectImagePath": "/assets/images/tree_carving.png",
+        "elements": [
+            {
+                "label": "",
+                "id": "text-1",
+                "rotate": 4,
+                "type": "text",
+                "x": "470",
+                "y": "380",
+                "color": "#282013",
+                "fontFamily": "GrenadierNF",
+                "fontPath": "/assets/fonts/GrenadierNF.ttf",
+                "fontSize": 88,
+                "fontSizeOption1": 70,
+                "fontSizeOption3": 50,
+                "fontSizeOption4": 35
+            },
+            {
+                "label": "",
+                "id": "text-2",
+                "type": "text",
+                "rotate": -4,
+                "x": "420",
+                "y": "525",
+                "color": "#282013",
+                "fontFamily": "GrenadierNF",
+                "fontPath": "/assets/fonts/GrenadierNF.ttf",
+                "fontSize": 88,
+                "fontSizeOption1": 70,
+                "fontSizeOption3": 50,
+                "fontSizeOption4": 30
+            }
+        ]
+    },
+    {
+        "name": "frame_and_roses",
+        "effectImagePath": "/assets/images/frame_and_roses.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "filter": "",
+                "perspective": "",
+                "height": 334,
+                "width": 224,
+                "x": 454,
+                "y": 315,
+                "id": "file-1"
+            }
+        ]
+    },
+    {
+        "name": "easter-flowers",
+        "effectImagePath": "/assets/images/easter-flowers.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "filter": "",
+                "perspective": "",
+                "height": 650,
+                "width": 1198,
+                "x": 1,
+                "y": 1,
+                "id": "file-1"
+            }
+        ]
+    },
+    {
+        "name": "easter-frame",
+        "effectImagePath": "/assets/images/easter-frame.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "filter": "",
+                "perspective": "",
+                "height": 265,
+                "width": 397,
+                "x": 184,
+                "y": 145,
+                "id": "file-1"
+            }
+        ]
+    },
+    {
+        "name": "easter",
+        "effectImagePath": "/assets/images/easter.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "filter": "",
+                "perspective": "",
+                "height": 292,
+                "width": 226,
+                "x": 386,
+                "y": 645,
+                "id": "file-1"
+            }
+        ]
+    },
+    {
+        "name": "easter_egg",
+        "effectImagePath": "/assets/images/easter_egg.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "filter": "",
+                "perspective": "",
+                "height": 170,
+                "width": 156,
+                "x": 364,
+                "y": 431,
+                "id": "file-1"
+            }
+        ]
+    },
+    {
+        "name": "bunnies",
+        "effectImagePath": "/assets/images/bunnies.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "filter": "",
+                "perspective": "",
+                "rotate": 3,
+                "height": 291,
+                "width": 193,
+                "x": 163,
+                "y": 194,
+                "id": "file-1"
+            }
+        ]
+    },
+    {
+        "name": "easter_postcard",
+        "effectImagePath": "/assets/images/easter_postcard.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "filter": "saturate(180%) grayscale(60%) contrast(112%) brightness(100%) sepia(20%) opacity(90%)",
+                "perspective": "",
+                "height": 466,
+                "width": 565,
+                "x": 206,
+                "y": 191,
+                "id": "file-1"
+            },
+            {
+                "label": "",
+                "id": "text-1",
+                "type": "text",
+                "rotate": 26,
+                "x": "766",
+                "y": "-190",
+                "color": "#D4D4D6",
+                "fontFamily": "OpenSans-Bold",
+                "fontPath": "/assets/fonts/OpenSans-Bold.ttf",
+                "fontSize": 35,
+                "fontSizeOption2": 24,
+                "fontSizeOption4": 17
+            }
+        ]
+    },
+    {
+        "name": "french_postcard",
+        "effectImagePath": "/assets/images/french_postcard.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "filter": "contrast(97%) saturate(130%) opacity(110%) sepia(33%) brightness(90%)",
+                "perspective": "",
+                "height": 545,
+                "width": 414,
+                "x": 251,
+                "y": 178,
+                "id": "file-1"
+            },
+            {
+                "label": "",
+                "id": "text-1",
+                "type": "text",
+                "x": "455",
+                "y": "900",
+                "color": "#8A826F",
+                "fontFamily": "DancingScript-Regular",
+                "fontPath": "/assets/fonts/DancingScript-Regular.ttf",
+                "fontSize": 60
+            }
+        ]
+    },
+    {
+        "name": "painting-snap",
+        "effectImagePath": "/assets/images/painting-snap.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "filter": "",
+                "perspective": "",
+                "height": 357,
+                "width": 272,
+                "x": 454,
+                "y": 214,
+                "id": "file-1"
+            },
+            {
+                "type": "image",
+                "imagePath": "",
+                "filter": "",
+                "perspective": "",
+                "height": 50,
+                "width": 44,
+                "x": 720,
+                "y": 595,
+                "id": "file-2"
+            }
+        ]
+    },
+    {
+        "name": "london_gallery",
+        "effectImagePath": "/assets/images/london_gallery.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "filter": "",
+                "perspective": "",
+                "height": 209,
+                "width": 171,
+                "x": 97,
+                "y": 190,
+                "id": "file-1"
+            },
+            {
+                "type": "image",
+                "imagePath": "",
+                "filter": "",
+                "perspective": "",
+                "height": 209,
+                "width": 171,
+                "x": 557,
+                "y": 190,
+                "id": "file-2"
+            },
+            {
+                "type": "image",
+                "imagePath": "",
+                "filter": "",
+                "perspective": "",
+                "height": 209,
+                "width": 171,
+                "x": 814,
+                "y": 190,
+                "id": "file-3"
+            }
+        ]
+    },
+    {
+        "name": "five_paintings",
+        "effectImagePath": "/assets/images/five_paintings.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "filter": "",
+                "perspective": "",
+                "height": 165,
+                "width": 133,
+                "x": 308,
+                "y": 73,
+                "id": "file-1"
+            },
+            {
+                "type": "image",
+                "imagePath": "",
+                "filter": "",
+                "perspective": "",
+                "height": 165,
+                "width": 133,
+                "x": 516,
+                "y": 73,
+                "id": "file-2"
+            },
+            {
+                "type": "image",
+                "imagePath": "",
+                "filter": "",
+                "perspective": "",
+                "height": 165,
+                "width": 133,
+                "x": 726,
+                "y": 73,
+                "id": "file-3"
+            },
+            {
+                "type": "image",
+                "imagePath": "",
+                "filter": "",
+                "perspective": "",
+                "height": 185,
+                "width": 265,
+                "x": 248,
+                "y": 319,
+                "id": "file-4"
+            },
+            {
+                "type": "image",
+                "imagePath": "",
+                "filter": "",
+                "perspective": "",
+                "height": 185,
+                "width": 267,
+                "x": 646,
+                "y": 322,
+                "id": "file-5"
+            }
+        ]
+    },
+    {
+        "name": "photo_exhibition",
+        "effectImagePath": "/assets/images/photo_exhibition.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "filter": "",
+                "perspective": "",
+                "height": 197,
+                "width": 159,
+                "x": 252,
+                "y": 177,
+                "id": "file-1"
+            },
+            {
+                "type": "image",
+                "imagePath": "",
+                "filter": "",
+                "perspective": "",
+                "height": 196,
+                "width": 157,
+                "x": 542,
+                "y": 179,
+                "id": "file-2"
+            }
+        ]
+    },
+    {
+        "name": "photo_gallery",
+        "effectImagePath": "/assets/images/photo_gallery.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "filter": "",
+                "perspective": "",
+                "height": 139,
+                "width": 104,
+                "x": 70,
+                "y": 188,
+                "id": "file-1"
+            },
+            {
+                "type": "image",
+                "imagePath": "",
+                "filter": "",
+                "perspective": "",
+                "height": 142,
+                "width": 104,
+                "x": 289,
+                "y": 187,
+                "id": "file-2"
+            },
+            {
+                "type": "image",
+                "imagePath": "",
+                "filter": "",
+                "perspective": "",
+                "height": 139,
+                "width": 104,
+                "x": 505,
+                "y": 188,
+                "id": "file-3"
+            }
+        ]
+    },
+    {
+        "name": "museum",
+        "effectImagePath": "/assets/images/museum.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "filter": "",
+                "perspective": "",
+                "height": 119,
+                "width": 84,
+                "x": 266,
+                "y": 253,
+                "id": "file-1"
+            }
+        ]
+    },
+    {
+        "name": "medieval_art",
+        "effectImagePath": "/assets/images/medieval_art.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "filter": "",
+                "perspective": "",
+                "height": 210,
+                "width": 270,
+                "x": 679,
+                "y": 122,
+                "id": "file-1"
+            }
+        ]
+    },
+    {
+        "name": "gallery_of_art",
+        "effectImagePath": "/assets/images/gallery_of_art.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "filter": "",
+                "perspective": "",
+                "height": 180,
+                "width": 138,
+                "x": 144,
+                "y": 351,
+                "id": "file-1"
+            },
+            {
+                "type": "image",
+                "imagePath": "",
+                "filter": "",
+                "perspective": "",
+                "height": 136,
+                "width": 110,
+                "x": 540,
+                "y": 375,
+                "id": "file-2"
+            },
+            {
+                "type": "image",
+                "imagePath": "",
+                "filter": "",
+                "perspective": "",
+                "height": 155,
+                "width": 123,
+                "x": 929,
+                "y": 377,
+                "id": "file-3"
+            }
+        ]
+    },
+    {
+        "name": "impressionists",
+        "effectImagePath": "/assets/images/impressionists.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "filter": "",
+                "perspective": "",
+                "height": 136,
+                "width": 175,
+                "x": 264,
+                "y": 156,
+                "id": "file-1"
+            }
+        ]
+    },
+    {
+        "name": "gallery-visitor",
+        "effectImagePath": "/assets/images/gallery-visitor.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "filter": "",
+                "perspective": "",
+                "height": 540,
+                "width": 381,
+                "x": 141,
+                "y": 147,
+                "id": "file-1"
+            }
+        ]
+    },
+    {
+        "name": "melbourne-gallery",
+        "effectImagePath": "/assets/images/melbourne-gallery.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "filter": "",
+                "perspective": "",
+                "height": 485,
+                "width": 663,
+                "x": 191,
+                "y": 310,
+                "id": "file-1"
+            }
+        ]
+    },
+    {
+        "name": "at-the-gallery",
+        "effectImagePath": "/assets/images/at-the-gallery.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "filter": "",
+                "perspective": "",
+                "height": 509,
+                "width": 562,
+                "x": 110,
+                "y": 183,
+                "id": "file-1"
+            }
+        ]
+    },
+    {
+        "name": "rijskmuseum",
+        "effectImagePath": "/assets/images/rijskmuseum.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "filter": "",
+                "perspective": "",
+                "height": 264,
+                "width": 332,
+                "x": 136,
+                "y": 216,
+                "id": "file-1"
+            }
+        ]
+    },
+    {
+        "name": "brussels-museum",
+        "effectImagePath": "/assets/images/brussels-museum.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "filter": "",
+                "perspective": "",
+                "height": 475,
+                "width": 590,
+                "x": 173,
+                "y": 247,
+                "id": "file-1"
+            }
+        ]
+    },
+    {
+        "name": "giant-artwork",
+        "effectImagePath": "/assets/images/giant-artwork.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "filter": "",
+                "perspective": "",
+                "height": 396,
+                "width": 535,
+                "x": 222,
+                "y": 191,
+                "id": "file-1"
+            }
+        ]
+    },
+    {
+        "name": "famous-gallery",
+        "effectImagePath": "/assets/images/famous-gallery.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "filter": "",
+                "perspective": "",
+                "height": 560,
+                "width": 436,
+                "x": 286,
+                "y": 111,
+                "id": "file-1"
+            }
+        ]
+    },
+    {
+        "name": "picture_at_the_gallery",
+        "effectImagePath": "/assets/images/picture_at_the_gallery.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "filter": "",
+                "perspective": "",
+                "height": 454,
+                "width": 453,
+                "x": 265,
+                "y": 102,
+                "id": "file-1"
+            }
+        ]
+    },
+    {
+        "name": "art_gallery",
+        "effectImagePath": "/assets/images/art_gallery.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "filter": "opacity(200%) contrast(140%) hue-rotate(1deg)",
+                "perspective": "",
+                "height": 550,
+                "width": 733,
+                "x": 240,
+                "y": 106,
+                "id": "file-1"
+            }
+        ]
+    },
+    {
+        "name": "family_in_museum",
+        "effectImagePath": "/assets/images/family_in_museum.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "filter": "opacity(200%) contrast(140%) hue-rotate(1deg) grayscale(200%)",
+                "perspective": "",
+                "height": 400,
+                "width": 311,
+                "x": 355,
+                "y": 94,
+                "id": "file-1"
+            }
+        ]
+    },
+    {
+        "name": "xmas-time",
+        "effectImagePath": "/assets/images/xmas-time.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "filter": "",
+                "rotate": -8,
+                "perspective": "",
+                "height": 210,
+                "width": 244,
+                "x": 467,
+                "y": 370,
+                "id": "file-1"
+            },
+            {
+                "label": "",
+                "id": "text-1",
+                "type": "text",
+                "x": "950",
+                "y": "825",
+                "color": "#B2AFAE",
+                "fontFamily": "kalam-Regular",
+                "fontPath": "/assets/fonts/kalam-Regular.ttf",
+                "fontWeight": "bold",
+                "fontSize": 60
+            }
+        ]
+    },
+    {
+        "name": "new_year_tree",
+        "effectImagePath": "/assets/images/new_year_tree.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "filter": "",
+                "rotate": 12,
+                "perspective": "",
+                "height": 226,
+                "width": 168,
+                "x": 415,
+                "y": 243,
+                "id": "file-1"
+            },
+            {
+                "type": "image",
+                "imagePath": "",
+                "filter": "",
+                "rotate": -7,
+                "perspective": "",
+                "height": 218,
+                "width": 168,
+                "x": 486,
+                "y": 430,
+                "id": "file-2"
+            },
+            {
+                "type": "image",
+                "imagePath": "",
+                "filter": "",
+                "rotate": -30,
+                "perspective": "",
+                "height": 223,
+                "width": 150,
+                "x": 453,
+                "y": 658,
+                "id": "file-3"
+            }
+        ]
+    },
+    {
+        "name": "new_year_presents",
+        "effectImagePath": "/assets/images/new_year_presents.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "filter": "",
+                "rotate": -38,
+                "perspective": "",
+                "height": 362,
+                "width": 293,
+                "x": 248,
+                "y": 789,
+                "id": "file-1"
+            },
+            {
+                "label": "",
+                "id": "text-1",
+                "type": "text",
+                "x": "400",
+                "rotate": -38,
+                "y": "1210",
+                "color": "#393945",
+                "fontFamily": "kalam-Regular",
+                "fontPath": "/assets/fonts/kalam-Regular.ttf",
+                "fontWeight": "bold",
+                "fontSize": 38,
+                "fontSizeOption4": 26
+            }
+        ]
+    },
+    {
+        "name": "santas-parcel-picture",
+        "effectImagePath": "/assets/images/santas-parcel-picture.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "filter": "",
+                "perspective": "",
+                "rotate": -1,
+                "height": 490,
+                "width": 531,
+                "x": 326,
+                "y": 167,
+                "id": "file-1"
+            },
+            {
+                "label": "",
+                "id": "text-1",
+                "type": "text",
+                "x": "600",
+                "y": "680",
+                "color": "#90755A",
+                "fontFamily": "kalam-Regular",
+                "fontPath": "/assets/fonts/kalam-Regular.ttf",
+                "fontWeight": "bold",
+                "fontSize": 33
+            }
+        ]
+    },
+    {
+        "name": "easter-nest",
+        "effectImagePath": "/assets/images/easter-nest.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "filter": "",
+                "perspective": "",
+                "rotate": 7,
+                "height": 345,
+                "width": 517,
+                "x": 537,
+                "y": 14,
+                "id": "file-1"
+            },
+            {
+                "label": "",
+                "id": "text-1",
+                "type": "text",
+                "x": "930",
+                "y": "736",
+                "color": "#EBDFD2",
+                "fontFamily": "DancingScript-Bold",
+                "fontPath": "/assets/fonts/DancingScript-Bold.ttf",
+                "fontSize": 100
+            }
+        ]
+    },
+    {
+        "name": "easter-card",
+        "effectImagePath": "/assets/images/easter-card.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "filter": "",
+                "perspective": "",
+                "rotate": -21,
+                "height": 378,
+                "width": 527,
+                "x": 30,
+                "y": 469,
+                "id": "file-1"
+            },
+            {
+                "label": "",
+                "id": "text-1",
+                "type": "text",
+                "rotate": -21,
+                "x": "190",
+                "y": "320",
+                "color": "#EBDFD2",
+                "fontFamily": "DancingScript-Bold",
+                "fontPath": "/assets/fonts/DancingScript-Bold.ttf",
+                "fontSize": 63,
+                "fontSizeOption1": 40,
+                "fontSizeOption3": 31,
+                "fontSizeOption4": 20
+            }
+        ]
+    },
+    {
+        "name": "card-with-flowers",
+        "effectImagePath": "/assets/images/card-with-flowers.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "perspective": "",
+                "height": 489,
+                "rotate": -23,
+                "width": 748,
+                "x": 89,
+                "y": 416,
+                "id": "file-1"
+            }
+        ]
+    },
+    {
+        "name": "bicycle",
+        "effectImagePath": "/assets/images/bicycle.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "perspective": "",
+                "height": 284,
+                "width": 366,
+                "x": 73,
+                "y": 40,
+                "id": "file-1"
+            }
+        ]
+    },
+    {
+        "name": "cinema",
+        "effectImagePath": "/assets/images/cinema.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "perspective": "",
+                "height": 281,
+                "width": 462,
+                "x": 0,
+                "y": 0,
+                "id": "file-1"
+            }
+        ]
+    },
+    {
+        "name": "halloween-pumpkins",
+        "effectImagePath": "/assets/images/halloween-pumpkins.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "perspective": "",
+                "height": 945,
+                "width": 1030,
+                "x": 110,
+                "y": 2,
+                "id": "file-1"
+            }
+        ]
+    },
+    {
+        "name": "interior-picture",
+        "effectImagePath": "/assets/images/interior-picture.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "perspective": "",
+                "height": 543,
+                "width": 445,
+                "x": 552,
+                "y": 76,
+                "id": "file-1"
+            }
+        ]
+    },
+    {
+        "name": "the-frame",
+        "effectImagePath": "/assets/images/the-frame.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "perspective": "",
+                "height": 605,
+                "width": 485,
+                "x": 358,
+                "y": 83,
+                "id": "file-1"
+            }
+        ]
+    },
+    {
+        "name": "vintage-scooter",
+        "effectImagePath": "/assets/images/vintage-scooter.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "perspective": "",
+                "height": 443,
+                "width": 597,
+                "x": 321,
+                "y": 118,
+                "id": "file-1"
+            }
+        ]
+    },
+    {
+        "name": "worker-by-the-billboard",
+        "effectImagePath": "/assets/images/worker-by-the-billboard.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "perspective": "",
+                "height": 392,
+                "width": 297,
+                "x": 744,
+                "y": 184,
+                "id": "file-1"
+            }
+        ]
+    },
+    {
+        "name": "love-letter",
+        "effectImagePath": "/assets/images/love-letter.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "perspective": "",
+                "rotate": -13,
+                "height": 341,
+                "width": 529,
+                "x": 376,
+                "y": 488,
+                "id": "file-1"
+            }
+        ]
+    },
+    {
+        "name": "two-valentines",
+        "effectImagePath": "/assets/images/two-valentines.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "filter": "",
+                "perspective": "",
+                "rotate": -32,
+                "height": 299,
+                "width": 249,
+                "x": -108,
+                "y": 384,
+                "id": "file-1"
+            },
+            {
+                "label": "",
+                "id": "text-1",
+                "type": "text",
+                "x": "50",
+                "rotate": -32,
+                "y": "734",
+                "color": "#515D74",
+                "fontFamily": "Kalam-Bold",
+                "fontPath": "/assets/fonts/Kalam-Bold.ttf",
+                "fontSize": 31,
+                "fontSizeOption1": 23,
+                "fontSizeOption3": 15,
+                "fontSizeOption4": 10
+            },
+            {
+                "type": "image",
+                "imagePath": "",
+                "filter": "",
+                "perspective": "",
+                "rotate": -26,
+                "height": 283,
+                "width": 243,
+                "x": 281,
+                "y": 386,
+                "id": "file-2"
+            },
+            {
+                "label": "",
+                "id": "text-2",
+                "type": "text",
+                "x": "440",
+                "rotate": -26,
+                "y": "714",
+                "color": "#515D74",
+                "fontFamily": "Kalam-Bold",
+                "fontPath": "/assets/fonts/Kalam-Bold.ttf",
+                "fontSize": 31,
+                "fontSizeOption1": 23,
+                "fontSizeOption3": 15,
+                "fontSizeOption4": 10
+            }
+        ]
+    },
+    {
+        "name": "wedding-day",
+        "effectImagePath": "/assets/images/wedding-day.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "perspective": "",
+                "rotate": -7,
+                "height": 499,
+                "width": 358,
+                "x": 259,
+                "y": 327,
+                "id": "file-1"
+            }
+        ]
+    },
+    {
+        "name": "heart_locket",
+        "effectImagePath": "/assets/images/heart_locket.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "perspective": "",
+                "rotate": 18,
+                "height": 200,
+                "width": 226,
+                "x": 472,
+                "y": 152,
+                "id": "file-1"
+            }
+        ]
+    },
+    {
+        "name": "brooches",
+        "effectImagePath": "/assets/images/brooches.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "perspective": "",
+                "rotate": -31,
+                "height": 130,
+                "width": 118,
+                "x": -40,
+                "y": 479,
+                "id": "file-1"
+            },
+            {
+                "type": "image",
+                "imagePath": "",
+                "perspective": "",
+                "rotate": -58,
+                "height": 155,
+                "width": 110,
+                "x": -461,
+                "y": 370,
+                "id": "file-2"
+            }
+        ]
+    },
+    {
+        "name": "golden_valentine",
+        "effectImagePath": "/assets/images/golden_valentine.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "perspective": "",
+                "rotate": -29,
+                "height": 166,
+                "width": 172,
+                "x": 229,
+                "y": 325,
+                "id": "file-1"
+            }
+        ]
+    },
+    {
+        "name": "together_forever",
+        "effectImagePath": "/assets/images/together_forever.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "filter": "",
+                "rotate": -3,
+                "perspective": "",
+                "height": 310,
+                "width": 292,
+                "x": 224,
+                "y": 362,
+                "id": "file-1"
+            },
+            {
+                "label": "",
+                "id": "text-1",
+                "type": "text",
+                "x": "360",
+                "rotate": -3,
+                "y": "723",
+                "color": "#4A4C72",
+                "fontFamily": "kalam-Bold",
+                "fontPath": "/assets/fonts/Kalam-Bold.ttf",
+                "fontSize": 33,
+                "fontSizeOption3": 26,
+                "fontSizeOption4": 18
+            },
+            {
+                "type": "image",
+                "imagePath": "",
+                "filter": "",
+                "rotate": -6,
+                "perspective": "",
+                "height": 315,
+                "width": 299,
+                "x": 619,
+                "y": 379,
+                "id": "file-2"
+            },
+            {
+                "label": "",
+                "id": "text-2",
+                "type": "text",
+                "x": "768",
+                "rotate": -6,
+                "y": "748",
+                "color": "#4A4C72",
+                "fontFamily": "Kalam-Bold",
+                "fontPath": "/assets/fonts/Kalam-Bold.ttf",
+                "fontSize": 33,
+                "fontSizeOption3": 26,
+                "fontSizeOption4": 18
+            }
+        ]
+    },
+    {
+        "name": "summer_love",
+        "effectImagePath": "/assets/images/summer_love.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "rotate": -3,
+                "perspective": "",
+                "height": 235,
+                "width": 274,
+                "x": 213,
+                "y": 323,
+                "id": "file-1"
+            },
+            {
+                "type": "image",
+                "imagePath": "",
+                "rotate": 3,
+                "perspective": "",
+                "height": 235,
+                "width": 271,
+                "x": 626,
+                "y": 244,
+                "id": "file-2"
+            }
+        ]
+    },
+    {
+        "name": "pink_heart",
+        "effectImagePath": "/assets/images/pink_heart.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "filter": "opacity(85%)  hue-rotate(-3deg) ",
+                "rotate": -18,
+                "perspective": "",
+                "height": 336,
+                "width": 388,
+                "x": 269,
+                "y": 416,
+                "id": "file-1"
+            },
+            {
+                "label": "",
+                "id": "text-1",
+                "type": "text",
+                "x": "105",
+                "y": "756",
+                "color": "#6B696A",
+                "fontFamily": "DancingScript-Regular",
+                "fontPath": "/assets/fonts/DancingScript-Regular.ttf",
+                "fontSize": 38,
+                "fontSizeOption2": 30,
+                "fontSizeOption3": 20,
+                "fontSizeOption4": 10
+            }
+        ]
+    },
+    {
+        "name": "roses",
+        "effectImagePath": "/assets/images/roses.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "perspective": "",
+                "rotate": 37,
+                "height": 166,
+                "width": 172,
+                "x": 695,
+                "y": 165,
+                "id": "file-1"
+            }
+        ]
+    },
+    {
+        "name": "valentine",
+        "effectImagePath": "/assets/images/valentine.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "rotate": -34,
+                "perspective": "",
+                "height": 454,
+                "width": 322,
+                "x": -421,
+                "y": 691,
+                "id": "file-1"
+            },
+            {
+                "label": "",
+                "id": "text-1",
+                "type": "text",
+                "x": "800",
+                "rotate": 15,
+                "y": "650",
+                "color": "#6F6878",
+                "fontFamily": "DancingScript-Regular",
+                "fontPath": "/assets/fonts/DancingScript-Regular.ttf",
+                "fontSize": 32,
+                "fontSizeOption2": 28,
+                "fontSizeOption3": 24,
+                "fontSizeOption4": 16
+            }
+        ]
+    },
+    {
+        "name": "art-admirer",
+        "effectImagePath": "/assets/images/art-admirer.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "perspective": "",
+                "rotate": -1,
+                "height": 366,
+                "width": 492,
+                "x": 496,
+                "y": 182,
+                "id": "file-1"
+            }
+        ]
+    },
+    {
+        "name": "brass-frame",
+        "effectImagePath": "/assets/images/brass-frame.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "perspective": "",
+                "height": 354,
+                "width": 245,
+                "x": 538,
+                "y": 303,
+                "id": "file-1"
+            }
+        ]
+    },
+    {
+        "name": "lemon-tree",
+        "effectImagePath": "/assets/images/lemon-tree.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "perspective": "",
+                "height": 327,
+                "width": 254,
+                "x": 499,
+                "y": 338,
+                "id": "file-1"
+            }
+        ]
+    },
+    {
+        "name": "kitty-and-frame",
+        "effectImagePath": "/assets/images/kitty-and-frame.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "perspective": "",
+                "height": 360,
+                "width": 285,
+                "x": 280,
+                "y": 300,
+                "id": "file-1"
+            }
+        ]
+    },
+    {
+        "name": "vintage_table",
+        "effectImagePath": "/assets/images/vintage_table.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "perspective": "",
+                "height": 174,
+                "width": 116,
+                "x": 289,
+                "y": 89,
+                "id": "file-1"
+            }
+        ]
+    },
+    {
+        "name": "vintage_frame",
+        "effectImagePath": "/assets/images/vintage_frame.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "rotate": 1,
+                "perspective": "",
+                "height": 298,
+                "width": 188,
+                "x": 529,
+                "y": 531,
+                "id": "file-1"
+            }
+        ]
+    },
+    {
+        "name": "late_autumn",
+        "effectImagePath": "/assets/images/late_autumn.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "rotate": 1,
+                "perspective": "",
+                "height": 320,
+                "width": 248,
+                "x": 97,
+                "y": 194,
+                "id": "file-1"
+            }
+        ]
+    },
+    {
+        "name": "apples",
+        "effectImagePath": "/assets/images/apples.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "rotate": 32,
+                "perspective": "",
+                "height": 265,
+                "width": 192,
+                "x": 630,
+                "y": -131,
+                "id": "file-1"
+            }
+        ]
+    },
+    {
+        "name": "lavander",
+        "effectImagePath": "/assets/images/lavander.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "perspective": "",
+                "height": 331,
+                "width": 470,
+                "x": 407,
+                "y": 120,
+                "id": "file-1"
+            }
+        ]
+    },
+    {
+        "name": "puppy-with-frame",
+        "effectImagePath": "/assets/images/puppy-with-frame.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "rotate": -6,
+                "perspective": "",
+                "height": 354,
+                "width": 497,
+                "x": 310,
+                "y": 591,
+                "id": "file-1"
+            }
+        ]
+    },
+    {
+        "name": "at-the-beach",
+        "effectImagePath": "/assets/images/at-the-beach.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "perspective": "",
+                "filter": "opacity(98%) contrast(140%) hue-rotate(1deg) grayscale(200%)",
+                "rotate": -5,
+                "height": 301,
+                "width": 186,
+                "x": 201,
+                "y": 558,
+                "id": "file-1"
+            }
+        ]
+    },
+    {
+        "name": "autumn-frame",
+        "effectImagePath": "/assets/images/autumn-frame.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "perspective": "",
+                "height": 322,
+                "rotate": 17,
+                "width": 205,
+                "x": 294,
+                "y": 109,
+                "id": "file-1"
+            }
+        ]
+    },
+    {
+        "name": "flower_frame",
+        "effectImagePath": "/assets/images/flower_frame.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "perspective": "",
+                "height": 790,
+                "width": 592,
+                "x": 274,
+                "y": 379,
+                "id": "file-1"
+            }
+        ]
+    },
+    {
+        "name": "daffodils",
+        "effectImagePath": "/assets/images/daffodils.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "perspective": "",
+                "rotate": 4,
+                "height": 256,
+                "width": 403,
+                "x": 340,
+                "y": 307,
+                "id": "file-1"
+            },
+            {
+                "label": "",
+                "id": "text-1",
+                "type": "text",
+                "x": "660",
+                "y": "930",
+                "color": "#FFEDDC",
+                "fontFamily": "DancingScript-Regular",
+                "fontPath": "/assets/fonts/DancingScript-Regular.ttf",
+                "fontSize": 42
+            }
+        ]
+    },
+    {
+        "name": "vintage_photo",
+        "effectImagePath": "/assets/images/vintage_photo.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "filter": "opacity(92%) contrast(110%) hue-rotate(1deg) grayscale(200%) sepia(120%)",
+                "perspective": "",
+                "height": 1035,
+                "width": 667,
+                "x": 143,
+                "y": 116,
+                "id": "file-1"
+            },
+            {
+                "label": "",
+                "id": "text-1",
+                "type": "text",
+                "x": "480",
+                "y": "1200",
+                "color": "#6C5B47",
+                "fontFamily": "OpenSans-Bold",
+                "fontPath": "/assets/fonts/OpenSans-Bold.ttf",
+                "fontSize": 28
+            }
+        ]
+    },
+    {
+        "name": "bronze-frames",
+        "effectImagePath": "/assets/images/bronze-frames.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "perspective": "",
+                "rotate": -5,
+                "height": 360,
+                "width": 256,
+                "x": 362,
+                "y": 216,
+                "id": "file-1"
+            },
+            {
+                "type": "image",
+                "imagePath": "",
+                "perspective": "",
+                "rotate": 9,
+                "height": 251,
+                "width": 376,
+                "x": 718,
+                "y": 431,
+                "id": "file-2"
+            }
+        ]
+    },
+    {
+        "name": "in-the-woods",
+        "effectImagePath": "/assets/images/in-the-woods.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "perspective": "",
+                "rotate": 16,
+                "height": 258,
+                "width": 210,
+                "x": 670,
+                "y": 315,
+                "id": "file-1"
+            }
+        ]
+    },
+    {
+        "name": "spring_memories",
+        "effectImagePath": "/assets/images/spring_memories.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "perspective": "",
+                "rotate": -7,
+                "height": 199,
+                "width": 244,
+                "x": 14,
+                "y": 267,
+                "id": "file-1"
+            }
+        ]
+    },
+    {
+        "name": "mint_frame",
+        "effectImagePath": "/assets/images/mint_frame.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "perspective": "",
+                "rotate": -15,
+                "height": 269,
+                "width": 144,
+                "x": 344,
+                "y": 343,
+                "id": "file-1"
+            }
+        ]
+    },
+    {
+        "name": "morning-newspaper",
+        "effectImagePath": "/assets/images/morning-newspaper.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "perspective": "",
+                "filter": "opacity(81%) contrast(110%) hue-rotate(1deg) grayscale(200%)",
+                "rotate": -1,
+                "height": 249,
+                "width": 190,
+                "x": 486,
+                "y": 165,
+                "id": "file-1"
+            },
+            {
+                "label": "",
+                "id": "text-1",
+                "type": "text",
+                "x": "570",
+                "y": "149",
+                "color": "#A9A7AA",
+                "fontFamily": "OpenSans-Bold",
+                "fontPath": "/assets/fonts/OpenSans-Bold.ttf",
+                "fontSize": 28
+            }
+        ]
+    },
+    {
+        "name": "daily-newspaper",
+        "effectImagePath": "/assets/images/daily-newspaper.png",
+        "elements": [
+            {
+                "label": "",
+                "id": "text-1",
+                "type": "text",
+                "rotate": -2,
+                "x": "716",
+                "y": "200",
+                "color": "#384862",
+                "fontFamily": "Cinzel-Bold",
+                "fontPath": "/assets/fonts/Cinzel-Bold.ttf",
+                "fontSize": 60,
+                "fontSizeOption1": 45,
+                "fontSizeOption3": 31,
+                "fontSizeOption4": 22
+            },
+            {
+                "label": "",
+                "id": "text-2",
+                "type": "text",
+                "rotate": -2,
+                "x": "740",
+                "y": "282",
+                "color": "#4C4C4C",
+                "fontFamily": "Cinzel-bold",
+                "fontPath": "/assets/fonts/Cinzel-bold.ttf",
+                "fontSize": 27,
+                "fontSizeOption2": 24,
+                "fontSizeOption3": 19,
+                "fontSizeOption4": 14
+            },
+            {
+                "type": "image",
+                "imagePath": "",
+                "perspective": "",
+                "filter": "opacity(86%)",
+                "rotate": -3,
+                "height": 221,
+                "width": 311,
+                "x": 621,
+                "y": 325,
+                "id": "file-1"
+            }
+        ]
+    },
+    {
+        "name": "roses-and-marshmallows",
+        "effectImagePath": "/assets/images/roses-and-marshmallows.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "perspective": "",
+                "rotate": 31,
+                "height": 455,
+                "width": 326,
+                "x": 487,
+                "y": -30,
+                "id": "file-1"
+            }
+        ]
+    },
+    {
+        "name": "esquire",
+        "effectImagePath": "/assets/images/esquire.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "perspective": "",
+                "rotate": 2,
+                "height": 777,
+                "width": 626,
+                "x": 134,
+                "y": 419,
+                "id": "file-1"
+            }
+        ]
+    },
+    {
+        "name": "reading_on_the_balcony",
+        "effectImagePath": "/assets/images/reading_on_the_balcony.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "perspective": "",
+                "rotate": -33,
+                "height": 265,
+                "width": 144,
+                "x": 68,
+                "y": 564,
+                "id": "file-1"
+            },
+            {
+                "type": "image",
+                "imagePath": "",
+                "perspective": "",
+                "rotate": -35,
+                "height": 179,
+                "width": 94,
+                "x": 199,
+                "y": 645,
+                "id": "file-2"
+            },
+            {
+                "type": "image",
+                "imagePath": "",
+                "perspective": "",
+                "rotate": -34,
+                "height": 123,
+                "width": 80,
+                "x": 305,
+                "y": 665,
+                "id": "file-3"
+            }
+        ]
+    },
+    {
+        "name": "glamour",
+        "effectImagePath": "/assets/images/glamour.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "perspective": "",
+                "rotate": -34,
+                "height": 384,
+                "width": 282,
+                "x": -208,
+                "y": 544,
+                "id": "file-1"
+            }
+        ]
+    },
+    {
+        "name": "vogue",
+        "effectImagePath": "/assets/images/vogue.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "perspective": "",
+                "rotate": -3,
+                "height": 438,
+                "width": 465,
+                "x": 174,
+                "y": 359,
+                "id": "file-1"
+            }
+        ]
+    },
+    {
+        "name": "hammock",
+        "effectImagePath": "/assets/images/hammock.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "perspective": "",
+                "rotate": 8,
+                "height": 244,
+                "width": 186,
+                "x": 349,
+                "y": 87,
+                "id": "file-1"
+            },
+            {
+                "type": "image",
+                "imagePath": "",
+                "perspective": "",
+                "rotate": 8,
+                "height": 244,
+                "width": 186,
+                "x": 349,
+                "y": 87,
+                "id": "file-1"
+            }
+        ]
+    },
+    {
+        "name": "interview",
+        "effectImagePath": "/assets/images/interview.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "perspective": "",
+                "rotate": 20,
+                "height": 609,
+                "width": 387,
+                "x": 250,
+                "y": -17,
+                "id": "file-1"
+            },
+            {
+                "type": "image",
+                "imagePath": "",
+                "perspective": "",
+                "rotate": 20,
+                "height": 242,
+                "width": 141,
+                "x": 759,
+                "y": 22,
+                "id": "file-2"
+            },
+            {
+                "label": "",
+                "id": "text-1",
+                "type": "text",
+                "rotate": 20,
+                "x": "320",
+                "y": "13",
+                "color": "#B4CDBA",
+                "fontFamily": "Cinzel-Bold",
+                "fontPath": "/assets/fonts/Cinzel-Bold.ttf",
+                "fontSize": 21,
+                "fontSizeOption1": 16,
+                "fontSizeOption3": 12,
+                "fontSizeOption4": 10
+            },
+            {
+                "label": "",
+                "id": "text-2",
+                "type": "text",
+                "rotate": 20,
+                "x": "358",
+                "y": "530",
+                "color": "#B4CDBA",
+                "fontFamily": "Cinzel-bold",
+                "fontPath": "/assets/fonts/Cinzel-bold.ttf",
+                "fontSize": 22,
+                "fontSizeOption1": 17,
+                "fontSizeOption3": 12,
+                "fontSizeOption4": 10
+            },
+            {
+                "label": "",
+                "id": "text-3",
+                "type": "text",
+                "rotate": 20,
+                "x": "332",
+                "y": "546",
+                "color": "#B4CDBA",
+                "fontFamily": "DancingScript-Regular",
+                "fontPath": "/assets/fonts/DancingScript-Regular.ttf",
+                "fontSize": 17,
+                "fontSizeOption2": 12,
+                "fontSizeOption3": 9,
+                "fontSizeOption4": 5
+            }
+        ]
+    },
+    {
+        "name": "missing-person",
+        "effectImagePath": "/assets/images/missing-person.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "perspective": "",
+                "filter": "opacity(91%) contrast(110%) hue-rotate(1deg) grayscale(200%)",
+                "height": 454,
+                "width": 438,
+                "x": 381,
+                "y": 352,
+                "id": "file-1"
+            },
+            {
+                "label": "",
+                "id": "text-1",
+                "type": "text",
+                "x": "580",
+                "y": "322",
+                "color": "black",
+                "fontFamily": "Cinzel-Bold",
+                "fontPath": "/assets/fonts/Cinzel-Bold.ttf",
+                "fontSize": 75,
+                "fontSizeOption2": 62,
+                "fontSizeOption3": 50,
+                "fontSizeOption4": 35
+            },
+            {
+                "label": "",
+                "id": "text-2",
+                "type": "text",
+                "x": "600",
+                "y": "845",
+                "color": "black",
+                "fontFamily": "Cinzel-bold",
+                "fontPath": "/assets/fonts/Cinzel-bold.ttf",
+                "fontSize": 33,
+                "fontSizeOption3": 25,
+                "fontSizeOption4": 10
+            },
+            {
+                "label": "",
+                "id": "text-3",
+                "type": "text",
+                "x": "606",
+                "y": "886",
+                "color": "black",
+                "fontFamily": "Cinzel-bold",
+                "fontPath": "/assets/fonts/Cinzel-bold.ttf",
+                "fontSize": 19
+            }
+        ]
+    },
+    {
+        "name": "wall-poster",
+        "effectImagePath": "/assets/images/wall-poster.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "perspective": "",
+                "height": 454,
+                "width": 542,
+                "x": 208,
+                "y": 1,
+                "id": "file-1"
+            }
+        ]
+    },
+    {
+        "name": "piccadilly-arcade",
+        "effectImagePath": "/assets/images/piccadilly-arcade.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "perspective": "",
+                "height": 350,
+                "width": 238,
+                "x": 264,
+                "y": 283,
+                "id": "file-1"
+            }
+        ]
+    },
+    {
+        "name": "train-station-poster",
+        "effectImagePath": "/assets/images/train-station-poster.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "perspective": "",
+                "filter": "opacity(85%) contrast(110%) hue-rotate(1deg) grayscale(200%)",
+                "height": 215,
+                "width": 149,
+                "x": 368,
+                "y": 144,
+                "id": "file-1"
+            }
+        ]
+    },
+    {
+        "name": "two-girls",
+        "effectImagePath": "/assets/images/two-girls.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "perspective": "",
+                "rotate": 5,
+                "height": 125,
+                "width": 155,
+                "x": 203,
+                "y": 221,
+                "id": "file-1"
+            },
+            {
+                "type": "image",
+                "imagePath": "",
+                "perspective": "",
+                "rotate": 9,
+                "height": 140,
+                "width": 152,
+                "x": 423,
+                "y": 156,
+                "id": "file-2"
+            }
+        ]
+    },
+    {
+        "name": "double-decker",
+        "effectImagePath": "/assets/images/double-decker.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "perspective": "",
+                "height": 221,
+                "width": 148,
+                "x": 614,
+                "y": 247,
+                "id": "file-1"
+            },
+            {
+                "label": "",
+                "id": "text-1",
+                "type": "text",
+                "shadow": "15",
+                "shadowColor": "#4E64C7",
+                "shadowOffsetX": "608",
+                "shadowOffsety": "608",
+                "shadowBlur": "20",
+                "x": "242",
+                "y": "300",
+                "color": "#CDD3DE",
+                "fontFamily": "GreatVibes-Regular",
+                "fontPath": "/assets/fonts/GreatVibes-Regular.ttf",
+                "fontSize": 63,
+                "fontSizeOption4": 40
+            }
+        ]
+    },
+    {
+        "name": "london_calling",
+        "effectImagePath": "/assets/images/london_calling.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "perspective": "",
+                "height": 271,
+                "width": 183,
+                "x": 457,
+                "y": 102,
+                "id": "file-1"
+            }
+        ]
+    },
+    {
+        "name": "oxford",
+        "effectImagePath": "/assets/images/oxford.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "perspective": "",
+                "height": 382,
+                "width": 479,
+                "x": 397,
+                "y": 103,
+                "id": "file-1"
+            }
+        ]
+    },
+    {
+        "name": "queens_theatre",
+        "effectImagePath": "/assets/images/queens_theatre.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "perspective": "",
+                "height": 282,
+                "width": 279,
+                "x": 200,
+                "y": 403,
+                "id": "file-1"
+            },
+            {
+                "type": "image",
+                "imagePath": "",
+                "perspective": "",
+                "height": 382,
+                "width": 479,
+                "x": 397,
+                "y": 103,
+                "id": "file-2"
+            }
+        ]
+    },
+    {
+        "name": "snow_in_london",
+        "effectImagePath": "/assets/images/snow_in_london.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "perspective": "",
+                "rotate": 1.5,
+                "height": 500,
+                "width": 331,
+                "x": 588,
+                "y": 146,
+                "id": "file-1"
+            }
+        ]
+    },
+    {
+        "name": "boardings",
+        "effectImagePath": "/assets/images/boardings.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "filter": "opacity(95%) contrast(110%) saturate(1%)  grayscale(140%)",
+                "perspective": "",
+                "height": 312,
+                "width": 412,
+                "x": 288,
+                "y": 100,
+                "id": "file-1"
+            }
+        ]
+    },
+    {
+        "name": "affiche",
+        "effectImagePath": "/assets/images/affiche.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "perspective": "",
+                "height": 220,
+                "width": 81,
+                "x": 99,
+                "y": 321,
+                "id": "file-1"
+            },
+            {
+                "label": "",
+                "id": "text-1",
+                "type": "text",
+                "shadow": "15",
+                "x": "138",
+                "y": "540",
+                "color": "#CDD3DE",
+                "fontFamily": "OpenSans-Bold",
+                "fontPath": "/assets/fonts/OpenSans-Bold.ttf",
+                "fontSize": 17,
+                "fontSizeOption1": 11,
+                "fontSizeOption3": 7
+            }
+        ]
+    },
+    {
+        "name": "theatre",
+        "effectImagePath": "/assets/images/theatre.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "perspective": "",
+                "height": 277,
+                "width": 394,
+                "x": 777,
+                "y": 303,
+                "id": "file-1"
+            },
+            {
+                "label": "",
+                "id": "text-1",
+                "type": "text",
+                "shadowColor": "#F2CDA7",
+                "shadowOffsetX": "608",
+                "shadowOffsety": "608",
+                "shadowBlur": "20",
+                "rotate": 3,
+                "x": "285",
+                "y": "400",
+                "color": "#F2CDA7",
+                "fontFamily": "Clip.ttf",
+                "fontPath": "/assets/fonts/Clip.ttf",
+                "fontSize": 43
+            },
+            {
+                "label": "",
+                "id": "text-2",
+                "type": "text",
+                "shadowColor": "#4E64C7",
+                "shadowOffsetX": "608",
+                "shadowOffsety": "608",
+                "shadowBlur": "20",
+                "rotate": -3,
+                "x": "238",
+                "y": "484",
+                "color": "#4E64C7",
+                "fontFamily": "Clip.ttf",
+                "fontPath": "/assets/fonts/Clip.ttf",
+                "fontSize": 43
+            }
+        ]
+    },
+    {
+        "name": "notting_hill",
+        "effectImagePath": "/assets/images/notting_hill.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "perspective": "",
+                "rotate": 1,
+                "height": 355,
+                "width": 245,
+                "x": 127,
+                "y": 508,
+                "id": "file-1"
+            },
+            {
+                "label": "",
+                "id": "text-1",
+                "type": "text",
+                "x": "213",
+                "y": "289",
+                "color": "#111B4C",
+                "fontFamily": "OpenSans-Bold",
+                "fontPath": "/assets/fonts/OpenSans-Bold.ttf",
+                "fontSize": 30
+            },
+            {
+                "label": "",
+                "id": "text-2",
+                "type": "text",
+                "x": "660",
+                "y": "658",
+                "color": "white",
+                "fontFamily": "OpenSans-Bold",
+                "fontPath": "/assets/fonts/OpenSans-Bold.ttf",
+                "fontSize": 15
+            }
+        ]
+    },
+    {
+        "name": "broadway",
+        "effectImagePath": "/assets/images/broadway.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "perspective": "",
+                "rotate": 0,
+                "height": 355,
+                "width": 245,
+                "x": 427,
+                "y": 288,
+                "id": "file-1"
+            }
+        ]
+    },
+    {
+        "name": "tulips",
+        "effectImagePath": "/assets/images/tulips.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "perspective": "",
+                "rotate": -1,
+                "height": 553,
+                "width": 392,
+                "x": 242,
+                "y": 285,
+                "id": "file-1"
+            }
+        ]
+    },
+    {
+        "name": "last_advert",
+        "effectImagePath": "/assets/images/last_advert.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "perspective": "",
+                "rotate": 2,
+                "height": 240,
+                "width": 331,
+                "x": 222,
+                "y": 149,
+                "id": "file-1"
+            }
+        ]
+    },
+    {
+        "name": "cyclist",
+        "effectImagePath": "/assets/images/cyclist.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "perspective": "",
+                "height": 384,
+                "width": 264,
+                "x": 164,
+                "y": 41,
+                "id": "file-1"
+            },
+            {
+                "type": "image",
+                "imagePath": "",
+                "perspective": "",
+                "height": 380,
+                "width": 264,
+                "x": 495,
+                "y": 41,
+                "id": "file-2"
+            },
+            {
+                "type": "image",
+                "imagePath": "",
+                "perspective": "",
+                "height": 381,
+                "width": 271,
+                "x": 829,
+                "y": 33,
+                "id": "file-3"
+            }
+        ]
+    },
+    {
+        "name": "underground",
+        "effectImagePath": "/assets/images/underground.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "perspective": "",
+                "height": 271,
+                "width": 337,
+                "x": 210,
+                "y": 265,
+                "id": "file-1"
+            },
+            {
+                "type": "image",
+                "imagePath": "",
+                "perspective": "",
+                "height": 269,
+                "width": 330,
+                "x": 615,
+                "y": 265,
+                "id": "file-2"
+            }
+        ]
+    },
+    {
+        "name": "broken_glass",
+        "effectImagePath": "/assets/images/broken_glass.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "perspective": "",
+                "height": 271,
+                "width": 337,
+                "x": 210,
+                "y": 265,
+                "id": "file-1"
+            },
+            {
+                "type": "image",
+                "imagePath": "",
+                "perspective": "",
+                "height": 269,
+                "width": 330,
+                "x": 615,
+                "y": 265,
+                "id": "file-2"
+            }
+        ]
+    },
+    {
+        "name": "new-year-frames",
+        "effectImagePath": "/assets/images/new-year-frames.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "filter": "",
+                "perspective": "",
+                "height": 638,
+                "width": 510,
+                "x": 6,
+                "y": 187,
+                "id": "file-1"
+            }
+        ]
+    },
+
+    {
+        "name": "graffiti_billboard",
+        "effectImagePath": "/assets/images/graffiti_billboard.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "filter": "",
+                "perspective": "",
+                "height": 543,
+                "width": 800,
+                "x": 68,
+                "y": 3,
+                "id": "file-1"
+            }
+        ]
+    },
+
+    {
+        "name": "worker-by-the-billboard",
+        "effectImagePath": "/assets/images/worker-by-the-billboard.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "filter": "",
+                "perspective": "",
+                "rotate": "",
+                "height": 550,
+                "width": 810,
+                "x": 526,
+                "y": 69,
+                "id": "file-1"
+            }
+        ]
+    },
+
+    {
+        "name": "on-the-mountain",
+        "effectImagePath": "/assets/images/On-the-mountain.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "filter": "",
+                "perspective": "",
+                "rotate": -0.45,
+                "height": 230,
+                "width": 350,
+                "x": 338,
+                "y": 185,
+                "id": "file-1"
+            }
+        ]
+    },
+
+    {
+        "name": "new-york-street",
+        "effectImagePath": "/assets/images/New-York-Street.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "filter": "",
+                "perspective": "",
+                "rotate": -0.55,
+                "height": 340,
+                "width": 480,
+                "x": 88,
+                "y": 59,
+                "id": "file-1"
+            }
+        ]
+    },
+
+    {
+        "name": "retail-park",
+        "effectImagePath": "/assets/images/retail-park.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "filter": "",
+                "perspective": "",
+                "height": 340,
+                "width": 480,
+                "x": 88,
+                "y": 59,
+                "id": "file-1"
+            }
+        ]
+    },
+
+    {
+        "name": "replacing-billboard-advert",
+        "effectImagePath": "/assets/images/replacing-billboard-advert.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "filter": "",
+                "perspective": "",
+                "rotate": 0.1,
+                "height": 400,
+                "width": 599,
+                "x": 35,
+                "y": 69,
+                "id": "file-1"
+            }
+        ]
+    },
+
+    {
+        "name": "swedish-billboard",
+        "effectImagePath": "/assets/images/swedish-billboard.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "filter": "",
+                "perspective": "",
+                "rotate": -1,
+                "height": 482,
+                "width": 700,
+                "x": 154,
+                "y": 186,
+                "id": "file-1"
+            }
+        ]
+    },
+
+    {
+        "name": "galeries-lafayette",
+        "effectImagePath": "/assets/images/galeries-lafayette.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "filter": "",
+                "perspective": "",
+                "rotate": 1,
+                "height": 263,
+                "width": 259,
+                "x": 201,
+                "y": 33,
+                "id": "file-1"
+            }
+        ]
+    },
+
+    {
+        "name": "AX",
+        "effectImagePath": "/assets/images/AX.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "filter": "",
+                "perspective": "",
+                "rotate": 1,
+                "height": 263,
+                "width": 259,
+                "x": 201,
+                "y": 33,
+                "id": "file-1"
+            }
+        ]
+    },
+
+    {
+        "name": "city",
+        "effectImagePath": "/assets/images/city.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "filter": "",
+                "perspective": "",
+                 "rotate": 1.5,
+                "height": 446,
+                "width": 681,
+                "x": 70,
+                "y": 125,
+                "id": "file-1"
+            }
+        ]
+    },
+
+    {
+        "name": "tram",
+        "effectImagePath": "/assets/images/tram.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "filter": "",
+                "perspective": "",
+                 "rotate": -0.4,
+                "height": 370,
+                "width": 553,
+                "x": 70,
+                "y": 33,
+                "id": "file-1"
+            }
+        ]
+    },
+    {
+        "name": "concrete-jungle",
+        "effectImagePath": "/assets/images/concrete-jungle.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "filter": "",
+                "perspective": "",
+                "rotate": -0.7,
+                "height": 543,
+                "width": 385,
+                "x": 404,
+                "y": 258,
+                "id": "file-1"
+            }
+        ]
+    },
+
+    {
+        "name": "shopping-arcade",
+        "effectImagePath": "/assets/images/shopping-arcade.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "filter": "",
+                "perspective": "",
+                "height": 413,
+                "width": 605,
+                "x": 288,
+                "y": 78,
+                "id": "file-1"
+            }
+        ]
+    },
+
+    {
+        "name": "urban-billboard",
+        "effectImagePath": "/assets/images/urban-billboard.png",
+        "elements": [
+            {
+                "type": "image",
+                "imagePath": "",
+                "perspective": "",
+                "height": 828,
+                "width": 555,
+                "rotate": 7,
+                "x": 180,
+                "y": -59,
+                "id": "file-1"
+            },
+            {
+                "type": "image",
+                "imagePath": "",
+                "perspective": "",
+                "height": 344,
+                "rotate": 3,
+                "width": 419,
+                "x": 11,
+                "y": 521,
+                "id": "file-2"
+            }
+        ]
+    }
+]
